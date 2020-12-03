@@ -9,7 +9,7 @@ Läksyt Tunkeutumistestaus ict4tn027-3006 kurssille. (Klikkaamalla linkkiä avau
 
 [H4 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h4.md).
 
-[H5 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h5.md). --EI VIELÄ TEHTY--
+[H5 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h5.md). --KOHTA VALMIS--
 
 [H6 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h6.md). --EI VIELÄ TEHTY--
 
