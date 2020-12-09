@@ -1,5 +1,5 @@
 # -Tunkeutumistestaus-ict4tn027-3006-ti-2020s
-Läksyt Tunkeutumistestaus ict4tn027-3006 kurssille. (Klikkaamalla linkkiä avautuu tekstin mukaiset viikkotehtävät.)
+Läksyt Tunkeutumistestaus ict4tn027-3006 kurssille. (Klikkaamalla linkkiä avautuu tekstin mukaiset viikkotehtävät.) Tämä toimii myös h6-tehtävän palautuksena.
 
 [H1 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h1.md).
 
@@ -13,3 +13,5 @@ Läksyt Tunkeutumistestaus ict4tn027-3006 kurssille. (Klikkaamalla linkkiä avau
 
 [H6 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h6.md). --EI VIELÄ TEHTY--
 
+
+Lähde läksyihin: http://terokarvinen.com/2020/tunkeutumistestaus-kurssi-pentest-course-ict4tn027-3006-autumn-2020/
