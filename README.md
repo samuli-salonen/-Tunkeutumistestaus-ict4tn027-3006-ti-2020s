@@ -11,10 +11,10 @@ Läksyt Tunkeutumistestaus ict4tn027-3006 kurssille. (Klikkaamalla linkkiä avau
 
 [H5 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h5.md).
 
-[H6 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h6.md). --EI VIELÄ TEHTY--
+[H6 tehtävät](https://github.com/samuli-salonen/-Tunkeutumistestaus-ict4tn027-3006-ti-2020s/blob/main/h6.md). --OSITTAIN TEHTY, EI VALMIS VIELÄ--
 
 
-Huom! H1 tehtävät ovat ehkä hieman kökösti tehtyjä, sillä aloitin niiden tekemisen myöhään ja raportointi on vähäinen niiden osalta, mutta H2, H3, H4, H5 ja H6 ovat paremmin tehtyjä.
+Huom! H1 tehtävät ovat ehkä hieman kökösti tehtyjä, sillä aloitin niiden tekemisen myöhään ja raportointi on vähäinen niiden osalta, mutta H2, H3, H4, H5 ja H6 ovat paremmin tehtyjä. Tämä tiedosto toimii myös H6 tehtävän a-kohdan vastauksena.
 
 
 Lähde läksyihin: http://terokarvinen.com/2020/tunkeutumistestaus-kurssi-pentest-course-ict4tn027-3006-autumn-2020/
