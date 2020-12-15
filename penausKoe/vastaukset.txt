@@ -1,0 +1,44 @@
+1 tehtävän vastaukset hasheittäin:
+
+827ccb0eea8a706c4c34a16891f84e7b = Tämä voisi olla MD5 hash:i, eli ei ole vahva tod.näk. en saanut auki 
+
+ce57d8bc990447c7ec35557040756db2a9ff7cdab53911f3c7995bc6bf3572cda8c94fa53789e523a680de9921c067f6717e79426df467185fc7a6dbec4b2d57 = en saanut auki hashid voisi olla sha512
+
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8 = en saanut selville tod näk sha256
+
+6608E4BC7B2B7A5F77CE3573570775AF = en saanut auki voi olla md5 cisco
+
+$2y$12$V.qmsi62gxB7wsGc/z2G5enJTWzQlcJqs6u9LKv2mRY3/B9pt..6m = voi olla bcypt blowfish
+
+/etc/passwd:elmik9:x:1003:1003:Elmeri "9" Elmik,,,:/home/elmik9:/bin/bash = md5 crypt 
+/etc/shadow:elmik9:$1$xpRkwrhq$aXdu7HQirUmuTZW2m8OXs.:18401:0:99999:7:::
+
+JOKAISEEN TULI JOKO EXHAUSTED TAI GPU TEMP. LIMIT REACHED! Kone temppuili kokeessa koko ajan.
+Komentoina käytin: 
+- hashid 'HASH'
+- hashcat -h | grep HASH
+- hashcat -m MAHDOLLISEN_HASH:N_REF_ID -a 0 tiiviste.txt SANALISTA.txt
+
+----------------------------------------------
+## secure ZipMail
+
+salasana on "salainen"
+mukana on kuva john2zip komennossa.
+-----------------------------------------------
+
+## Book Shop of Unbreakable
+
+ainakin nikto sanoo, että XSS suojausta ei ole määritelty, siellä on myös OPTIONS http metodi, se voisi olla kiinnostava.
+
+
+nmap antoi mahdollisen msf exploit modulin werkzeug:lle (debug rce).
+
+selaimen kenttään voi kirjoittaa yksinkertaista sql:ä, eli sql injektio voi olla mahdollinen.
+
+Ajoin:
+-NMAP -a kohde
+- nikto
+
+--------------------------------------------------------
+Samuli Salonen
+
