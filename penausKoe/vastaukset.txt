@@ -42,3 +42,25 @@ Ajoin:
 --------------------------------------------------------
 Samuli Salonen
 
+
+  461  clear
+  462  mkdir penausKoe
+  463  cd penausKoe
+  464  ls
+  465  clear
+  466  sudo apt-get update && sudo apt-get upgrade -y
+  467  sudo reboot
+  468  cd penausKoe
+  469  hashcat -m 1600 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' rockyou.txt. -m
+  470  hashcat -m 1600 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' rockyou.txt. 
+  471  hashcat -m 1600 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' /usr/share/wordlists/rockyou.txt. 
+  472  hashcat -m 1600 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' /usr/share/wordlists/rockyou.txt
+  473  hashcat -m 1600 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' /home/kalix1/hydrakokeilu/rockyou.txt
+  474  hashcat -m 7400 -a 0 '827ccb0eea8a706c4c34a16891f84e7b' /home/kalix1/hydrakokeilu/rockyou.txt
+  475  hashid '827ccb0eea8a706c4c34a16891f84e7b'
+  476  nano tiiviste1.txt
+  477  hashcat -m 7400 -a 0 tiiviste1.txt /home/kalix1/hydrakokeilu/rockyou.txt
+  478  hashcat -m 7400 -a 0 tiiviste1.txt /home/kalix1/hydrakokeilu/rockyou.txt -m
+  479  hashcat -m 7400 -a 0 tiiviste1.txt /home/kalix1/hydrakokeilu/rockyou.txt 
+                                                                                 
+
